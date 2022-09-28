@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8cb66128.chunk.css",
+    "main.js": "/static/js/main.92a277fc.chunk.js",
+    "main.js.map": "/static/js/main.92a277fc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3c7287b5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3c7287b5.js.map",
+    "static/js/2.681c89eb.chunk.js": "/static/js/2.681c89eb.chunk.js",
+    "static/js/2.681c89eb.chunk.js.map": "/static/js/2.681c89eb.chunk.js.map",
+    "static/css/3.7822d34d.chunk.css": "/static/css/3.7822d34d.chunk.css",
+    "static/js/3.8a93dbd9.chunk.js": "/static/js/3.8a93dbd9.chunk.js",
+    "static/js/3.8a93dbd9.chunk.js.map": "/static/js/3.8a93dbd9.chunk.js.map",
+    "static/css/4.b375e3ca.chunk.css": "/static/css/4.b375e3ca.chunk.css",
+    "static/js/4.09e78f1c.chunk.js": "/static/js/4.09e78f1c.chunk.js",
+    "static/js/4.09e78f1c.chunk.js.map": "/static/js/4.09e78f1c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ab8b9b15fdf867c01d9a0eeaa26d5edb.js": "/precache-manifest.ab8b9b15fdf867c01d9a0eeaa26d5edb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.7822d34d.chunk.css.map": "/static/css/3.7822d34d.chunk.css.map",
+    "static/css/4.b375e3ca.chunk.css.map": "/static/css/4.b375e3ca.chunk.css.map",
+    "static/css/main.8cb66128.chunk.css.map": "/static/css/main.8cb66128.chunk.css.map",
+    "static/js/2.681c89eb.chunk.js.LICENSE.txt": "/static/js/2.681c89eb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/DPS.jpg": "/static/media/DPS.2238b99b.jpg",
+    "static/media/SVNIT.png": "/static/media/SVNIT.91641e3b.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/jpmc.jpeg": "/static/media/jpmc.e0e58a5a.jpeg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/nitw.jpeg": "/static/media/nitw.6d04c6cc.jpeg",
+    "static/media/taylor&francis.png": "/static/media/taylor&francis.995aee34.png",
+    "static/media/usc.jpeg": "/static/media/usc.9e8aca44.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c7287b5.js",
+    "static/js/2.681c89eb.chunk.js",
+    "static/css/main.8cb66128.chunk.css",
+    "static/js/main.92a277fc.chunk.js"
+  ]
+}
